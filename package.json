@@ -1,5 +1,5 @@
 {
-    "name": "wallet-validator",
+    "name": "wallet-validator-testnet",
     "version": "1.0.0",
     "description": "Wallet Address Validator",
     "repository": {
