@@ -1,10 +1,10 @@
 {
     "name": "wallet-validator",
-    "version": "1.0.3",
-    "description": "JS Wallet Address Validator",
+    "version": "1.0.0",
+    "description": "Wallet Address Validator",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/mrnasil/wallet-validator.git"
+        "url": "git+https://github.com/nekaartajaya/wallet-validator.git"
     },
     "keywords": [
         "0x",
